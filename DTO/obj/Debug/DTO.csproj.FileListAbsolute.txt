@@ -1,0 +1,15 @@
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\DTO\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\DTO\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\DTO\obj\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\DTO\obj\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\DTO\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\DTO\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\DTO\obj\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\DTO\obj\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\DTO\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\DTO\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\DTO\obj\Debug\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\DTO\obj\Debug\DTO.pdb

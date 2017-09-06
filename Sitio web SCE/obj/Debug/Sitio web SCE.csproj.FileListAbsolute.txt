@@ -1,0 +1,30 @@
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll.config
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\CAD.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\CAD.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\Sitio web SCE\Sitio web SCE\bin\DTO.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll.config
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\CAD.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\DTO.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\CAD.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\bin\DTO.pdb
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll.config
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\Sitio web SCE.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\CAD.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\DTO.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\CAD.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\bin\DTO.pdb
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.dll
+C:\Users\APRENDIZ\Desktop\proyecto\sitio web proyecto\pagina\Sitio web SCE\Sitio web SCE\obj\Debug\Sitio web SCE.pdb
